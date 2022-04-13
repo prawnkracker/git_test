@@ -1,0 +1,2 @@
+hi friends
+im learning using Odin
